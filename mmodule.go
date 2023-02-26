@@ -1,4 +1,4 @@
-package github.com/elenabessonova/somepackage
+package somepackage
 
 func Add(a, b int) int {
 
